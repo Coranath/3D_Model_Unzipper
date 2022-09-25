@@ -42,4 +42,6 @@ while True:
     else:
         oldLs = ls
 
+    sleep(10)
+
 
